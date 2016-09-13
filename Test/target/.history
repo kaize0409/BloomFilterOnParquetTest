@@ -1,0 +1,7 @@
+val a = "xx"
+console
+sbt run
+run
+ll
+ls
+exit
