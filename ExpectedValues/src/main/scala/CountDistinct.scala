@@ -9,11 +9,11 @@ object CountDistinct {
   {
     val spark: SparkSession = SparkSession.builder
       //.master("local[*]")
-      .appName("Baseline Benchmark")
+      .appName("Expected Values Testing")
       .getOrCreate
 
     //Parquet location
-    val Path: String = "hdfs://dbg11:8020/user/root/test/voice_call_parquet_new"
+    val Path: String = "hdfs://dbg11:8020/user/root/test/voice_call_parquet"
 
     //read parquet file
     val parquetFileDF = spark.read.parquet(Path)
