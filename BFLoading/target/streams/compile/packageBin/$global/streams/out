@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/bfloading_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	TransferUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/TransferUtil.class[0m
+[0m[[0mdebug[0m] [0m	DataTest$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/DataTest$.class[0m
+[0m[[0mdebug[0m] [0m	DataTest$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/DataTest$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	TransferUtil$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/TransferUtil$.class[0m
+[0m[[0mdebug[0m] [0m	VoiceCall.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/VoiceCall.class[0m
+[0m[[0mdebug[0m] [0m	DataTest$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/DataTest$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	DataTest.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/DataTest.class[0m
+[0m[[0mdebug[0m] [0m	DataTest$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/DataTest$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	VoiceCall$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lizbai/Dropbox/Huawei_Testing/BFLoading/target/scala-2.11/classes/VoiceCall$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
