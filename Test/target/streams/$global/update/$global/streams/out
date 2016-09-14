@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/lizbai/Dropbox/Huwei_Testing/Test/}test...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/lizbai/Dropbox/Huawei_Testing/Test/}test...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#test_2.11;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#test_2.11;1.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#test_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.8 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16d47b53[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3253cd7[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.8 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.8] org.scala-lang#scala-library;2.11.8[0m
@@ -888,7 +888,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0!hadoop-mapreduce-client-app.pom(pom.original) (839ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0!hadoop-mapreduce-client-app.pom(pom.original) (875ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0[0m
@@ -953,7 +953,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (864ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (912ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0[0m
@@ -1021,7 +1021,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (829ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (916ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-yarn;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0[0m
@@ -1117,7 +1117,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (869ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (1010ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-yarn;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0[0m
@@ -1614,7 +1614,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-client;2.2.0!hadoop-yarn-client.pom(pom.original) (994ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-client;2.2.0!hadoop-yarn-client.pom(pom.original) (1592ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-yarn;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0[0m
@@ -1748,7 +1748,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0!hadoop-mapreduce-client-core.pom(pom.original) (846ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0!hadoop-mapreduce-client-core.pom(pom.original) (1012ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0[0m
@@ -1840,7 +1840,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-common;2.2.0!hadoop-yarn-server-common.pom(pom.original) (830ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-common;2.2.0!hadoop-yarn-server-common.pom(pom.original) (982ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...[0m
@@ -1854,7 +1854,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (827ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (944ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-yarn;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0[0m
@@ -1986,7 +1986,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (860ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (1080ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0[0m
@@ -2049,7 +2049,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0!hadoop-mapreduce-client-jobclient.pom(pom.original) (1013ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0!hadoop-mapreduce-client-jobclient.pom(pom.original) (994ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0[0m
@@ -2430,7 +2430,7 @@
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom[0m
 [0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (850ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (1119ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server;2.2.0[0m
@@ -21882,19 +21882,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 21514ms :: artifacts dl 146ms[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 compile produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 runtime produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 test produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 provided produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 optional produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 compile-internal produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 runtime-internal produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 test-internal produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 plugin produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 sources produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 docs produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 pom produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 scala-tool produced in /Users/lizbai/Dropbox/Huwei_Testing/Test/target/resolution-cache/reports/default-test_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (21514ms resolve - 146ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 25215ms :: artifacts dl 155ms[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 compile produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 runtime produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 test produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 provided produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 optional produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 compile-internal produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 runtime-internal produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 test-internal produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 plugin produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 sources produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 docs produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 pom produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#test_2.11;1.0 scala-tool produced in /Users/lizbai/Dropbox/Huawei_Testing/Test/target/resolution-cache/reports/default-test_2.11-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (25215ms resolve - 155ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

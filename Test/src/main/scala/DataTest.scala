@@ -29,7 +29,7 @@ object DataTest {
     val result1 = spark.sql("select * from VOICE_CALL where starttime >= 1433199150 AND " +
       "(FORMATCALLERNO = '20510950' or CALLERNO = '20510950' or ORGCALLEDNO = '20510950' or CALLEDNO = '20510950' or FORMATCALLEDNO = '20510950')" +
       " AND starttime < 1433199200  AND last_msisdn = '0' limit 5000")
-	/*
+	*/
 
 
   }
