@@ -1,0 +1,191 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$$anonfun$1.class
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$$anonfun$2.class
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$$typecreator2$1.class
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$.class
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$Record$.class
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$Record.class
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad.class
+binary dependencies:
+5 items
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> /Users/lizbai/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SimpleLoad
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SimpleLoad$
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SimpleLoad$$anonfun$1
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SimpleLoad$$anonfun$2
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SimpleLoad$$typecreator2$1
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SimpleLoad$Record
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SimpleLoad$Record$
+used names:
+88 items
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> $m
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> $m$untyped
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> $typecreator2
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> $u
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> &&
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> <init>
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> ==
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> AbstractFunction2
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> AnyRef
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Array
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> ClassTag
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Float
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Int
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Mirror
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> None
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Nothing
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Predef
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Product
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Record
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> ScalaRunTime
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Serializable
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SimpleLoad
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Singleton
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> SparkSession
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Statics
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> String
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Type
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> TypeCreator
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> TypeTag
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> U
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Unit
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> Universe
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> _toString
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> apache
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> appName
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> apply
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> arrayClass
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> asInstanceOf
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> asModule
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> asType
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> augmentString
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> builder
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> dataDF
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> eq
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> finalizeHash
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> floatHash
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> getClass
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> getClassLoader
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> getOrCreate
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> implicits
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> internal
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> isInstanceOf
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> map
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> materializeClassTag
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> materializeTypeTag
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> mix
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> moduleClass
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> newProductEncoder
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> org
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> p
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> package
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> parquet
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> rank
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> rddToDatasetHolder
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> reflect
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> reificationSupport
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> runtime
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> runtimeMirror
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> saveDataAsParquet
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> savePath
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> scala
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> selectType
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> spark
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> sparkContext
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> split
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> sql
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> staticModule
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> textFile
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> toDF
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> toFloat
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> toInt
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> toString
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> toTypeConstructor
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> typedProductIterator
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> universe
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> value
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> write
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> ||
+product stamps:
+7 items
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$$anonfun$1.class -> lastModified(1473914584000)
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$$anonfun$2.class -> lastModified(1473914584000)
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$$typecreator2$1.class -> lastModified(1473914584000)
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$.class -> lastModified(1473914584000)
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$Record$.class -> lastModified(1473914584000)
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad$Record.class -> lastModified(1473914584000)
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/target/scala-2.11/classes/SimpleLoad.class -> lastModified(1473914584000)
+source stamps:
+1 items
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> hash(a0308b6045ef4ed559c37c14171235b649d2e415)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428691662000)
+/Users/lizbai/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/Users/lizbai/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar -> lastModified(1468970091000)
+/Users/lizbai/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+/Users/lizbai/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> lastModified(1457496962000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/lizbai/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.rdd.RDD
+/Users/lizbai/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar -> org.apache.spark.sql.package$
+/Users/lizbai/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+/Users/lizbai/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB2OEJ4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKFE1AJ0AAZub3RpZnlzcQB+AAw1IR60dAARc2F2ZURhdGFBc1BhcnF1ZXRzcQB+AAyIHleHdAAHdW5hcHBseXNxAH4ADLCmD9l0AAdjdXJyaWVkc3EAfgAMEdauNXQABHdhaXRzcQB+AAytRJu6dAAOY29weSRkZWZhdWx0JDJzcQB+AAz+5sJNdAANJGFzSW5zdGFuY2VPZnNxAH4ADAhtQvV0AAxwcm9kdWN0QXJpdHlzcQB+AAzuy2NidAAGZXF1YWxzc3EAfgAMYAPNjXQADGFzSW5zdGFuY2VPZnNxAH4ADPHHjK50AARyYW5rc3EAfgAMKdMz+3QADHN5bmNocm9uaXplZHNxAH4ADEFJdcV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMoQ9mSnQABnR1cGxlZHNxAH4ADDhd3gZ0AAhjYW5FcXVhbHNxAH4ADCE+j/Z0AARtYWluc3EAfgAM2WTFoHQADXByb2R1Y3RQcmVmaXhzcQB+AAzHy816dAAJbm90aWZ5QWxsc3EAfgAMd8QhWXQAC3JlYWRSZXNvbHZlc3EAfgAM5q0j5nQADGlzSW5zdGFuY2VPZnNxAH4ADAVGLhJ0AAY8aW5pdD5zcQB+AAy8E7gJdAAFYXBwbHlzcQB+AAxWvnHydAACPT1zcQB+AAwq21zYdAAGUmVjb3Jkc3EAfgAMxOs2QXQABWNsb25lc3EAfgAMzMdQjnQAClNpbXBsZUxvYWRzcQB+AAz0Bg/vdAAEY29weXNxAH4ADOeoK250AAh0b1N0cmluZ3NxAH4ADBKj9CN0AAIhPXNxAH4ADCuhJ3l0AAhnZXRDbGFzc3NxAH4ADG6ZC2t0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADEVv+XV0AAJuZXNxAH4ADLHQsZ90AAV2YWx1ZXNxAH4ADDQHBdh0AAJlcXNxAH4ADB59Chl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx0cfVmdAACIyNzcQB+AAygM91IdAAIZmluYWxpemVzcQB+AAyHKo3xdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwPrGrJdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AEF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4Ag3NxAH4AfAF1cQB+AGAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGZxAH4Ab3VxAH4AcAAAAABzcQB+AHIAcQB+AC11cQB+AHQAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCLeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB3dAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCSWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCCc3EAfgCRdAAFQXJyYXlxAH4Al3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCRdAAGU3RyaW5nc3EAfgCVc3EAfgCYdXEAfgCbAAAAA3NxAH4AnXQABGphdmFzcQB+AJ10AARsYW5ncQB+AKJwc3EAfgB8AXVxAH4AYAAAAABwc3EAfgB8AXVxAH4AtgAAAAJzcQB+AJF0AAZPYmplY3RxAH4AunNxAH4AkXQAA0FueXEAfgCXcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVywnood1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIL1VzZXJzL2xpemJhaS9Ecm9wYm94L0h1YXdlaV9UZXN0aW5nL01pbm9yVGVzdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUoDCLYEXvTtVZw3wUFxI1tknS5BU=
+external apis:
+0 items
+source infos:
+1 items
+/Users/lizbai/Dropbox/Huawei_Testing/MinorTest/src/main/scala/SimpleLoad.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVywiaSF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9saXpiYWkvRHJvcGJveC9IdWF3ZWlfVGVzdGluZy9NaW5vclRlc3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVywnood1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9saXpiYWkvRHJvcGJveC9IdWF3ZWlfVGVzdGluZy9NaW5vclRlc3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
