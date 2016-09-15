@@ -5,6 +5,7 @@
 [debug] 	confs: [default]
 [debug] 	validate = true
 [debug] 	refresh = false
+[debug] no default cache defined: set to /Users/lizbai/.ivy2/cache
 [debug] resolving dependencies for configuration 'default'
 [debug] == resolving dependencies for default#bfbenchmarks$sbt_2.11;1.0 [default]
 [debug] == resolving dependencies default#bfbenchmarks$sbt_2.11;1.0->org.scala-sbt#sbt;0.13.8 [default->default(compile)]
@@ -703,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 745ms :: artifacts dl 35ms
+[debug] :: resolution report :: resolve 2687ms :: artifacts dl 81ms
 [debug] 	report for default#bfbenchmarks$sbt_2.11;1.0 default produced in /Users/lizbai/Dropbox/Huawei_Testing/BFBenchmarks/target/resolution-cache/reports/default-bfbenchmarks$sbt_2.11-default.xml
-[debug] 	resolve done (745ms resolve - 35ms download)
+[debug] 	resolve done (2687ms resolve - 81ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#bfbenchmarks$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 125ms :: artifacts dl 38ms
+[debug] :: resolution report :: resolve 313ms :: artifacts dl 136ms
 [debug] 	report for default#bfbenchmarks$sources_2.11;1.0 default produced in /Users/lizbai/Dropbox/Huawei_Testing/BFBenchmarks/target/resolution-cache/reports/default-bfbenchmarks$sources_2.11-default.xml
-[debug] 	resolve done (125ms resolve - 38ms download)
+[debug] 	resolve done (313ms resolve - 136ms download)

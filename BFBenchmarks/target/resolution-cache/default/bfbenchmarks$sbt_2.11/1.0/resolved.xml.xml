@@ -4,7 +4,7 @@
 		module="bfbenchmarks$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160914173131"
+		publication="20160915130221"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

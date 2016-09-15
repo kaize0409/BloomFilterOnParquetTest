@@ -10,6 +10,7 @@
 [debug] == resolving dependencies default#baselinebenchmark$sbt_2.11;1.0->org.scala-sbt#sbt;0.13.8 [default->default(compile)]
 [info] Resolving org.scala-sbt#sbt;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#sbt;0.13.8 {default=[default(compile)]}
+[debug] no default cache defined: set to /Users/lizbai/.ivy2/cache
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#sbt;0.13.8
 [debug] 	found org.scala-sbt#sbt;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#sbt;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -703,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 954ms :: artifacts dl 28ms
-[debug] 	report for default#baselinebenchmark$sbt_2.11;1.0 default produced in /Users/lizbai/BaselineBenchmark/target/resolution-cache/reports/default-baselinebenchmark$sbt_2.11-default.xml
-[debug] 	resolve done (954ms resolve - 28ms download)
+[debug] :: resolution report :: resolve 6591ms :: artifacts dl 367ms
+[debug] 	report for default#baselinebenchmark$sbt_2.11;1.0 default produced in /Users/lizbai/Dropbox/Huawei_Testing/BaselineBenchmark/target/resolution-cache/reports/default-baselinebenchmark$sbt_2.11-default.xml
+[debug] 	resolve done (6591ms resolve - 367ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#baselinebenchmark$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 352ms :: artifacts dl 43ms
-[debug] 	report for default#baselinebenchmark$sources_2.11;1.0 default produced in /Users/lizbai/BaselineBenchmark/target/resolution-cache/reports/default-baselinebenchmark$sources_2.11-default.xml
-[debug] 	resolve done (352ms resolve - 43ms download)
+[debug] :: resolution report :: resolve 3944ms :: artifacts dl 295ms
+[debug] 	report for default#baselinebenchmark$sources_2.11;1.0 default produced in /Users/lizbai/Dropbox/Huawei_Testing/BaselineBenchmark/target/resolution-cache/reports/default-baselinebenchmark$sources_2.11-default.xml
+[debug] 	resolve done (3944ms resolve - 295ms download)
